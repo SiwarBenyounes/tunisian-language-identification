@@ -1,0 +1,20 @@
+# Analyse et visualisation des données
+numpy
+pandas
+matplotlib
+seaborn
+
+# Modèles CRF et métriques classiques
+scikit-learn
+sklearn-crfsuite
+
+# Modèle XLM-RoBERTa et entraînement
+datasets
+transformers
+evaluate
+seqeval
+torch
+accelerate
+
+# Exécution du notebook
+jupyter
